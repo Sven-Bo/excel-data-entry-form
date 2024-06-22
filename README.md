@@ -27,8 +27,8 @@ Run the Python script to use the data entry form.
 For more details, check out the YouTube video linked in the description.
 Feel free to adjust the code to your needs and explore further possibilities with ChatGPT!
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/HwoJtAsNCU0/0.jpg)](https://youtu.be/HwoJtAsNCU0)
 
 
 
